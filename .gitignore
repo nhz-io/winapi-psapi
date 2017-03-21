@@ -1,0 +1,12 @@
+.tmp
+.vs
+.vscode
+.npmignore
+.gitignore
+node_modules
+build
+lib
+appveyor.yml
+npm-debug.log
+npm-debug.log.*
+*.swp
