@@ -1,6 +1,6 @@
 {
   "name": "@winapi/psapi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "PSAPI",
   "main": "lib/winapi_psapi.node",
   "scripts": {
